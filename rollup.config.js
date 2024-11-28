@@ -28,6 +28,9 @@ const output = [
     name: NamedExport,
     banner,
     exports: "named",
+    globals: {
+      ziko: "Ziko",
+    },
   },
 ];
 isProduction &&
