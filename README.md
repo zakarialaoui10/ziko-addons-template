@@ -11,5 +11,11 @@
 
 ## Features
 
-## ⭐️ Show your support
+# ⭐️ Show your support
+
+If you appreciate the library, kindly demonstrate your support by giving it a star!<br>
+
+<!--## Financial support-->
+
 # Licence
+This projet is licensed under the terms of MIT License
