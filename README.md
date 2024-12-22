@@ -1,3 +1,12 @@
-# ziko-templates-addons
+> [!NOTE]  
+> This project is part of the [ZikoJS](https://github.com/zakarialaoui10/ziko.js) ecosystem.
 
-<!-- add tester --/>
+# Addon Title
+
+## Instal 
+
+## Usage
+
+## Features
+
+# Licence
