@@ -5,7 +5,7 @@
 
 <!-- Overview Or Description-->
 
-## Instal 
+## Install
 
 ## Usage
 
